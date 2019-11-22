@@ -1,24 +1,84 @@
-==This subdomain is reserved for the creation of a [[wikimedia:Our projects|Wikipedia]] in '''[[w:en:kriyòl gwiyannen|kriyòl gwiyannen]]''' language==
+{| style="margin-top:5px; width:100%; margin-bottom:2px;"
+|class="fundologo" style="background-repeat:no-repeat; background-position:-40px -15px; width:100%; border:1px solid #a7d7f9; vertical-align:top; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius:10px;" |
+{|  style="width:100%; margin-bottom:2px; vertical-align:top; font-size:95%; background:transparent;"
+|-
+| style="height:1em; padding-left:4em;" |<span style="font-size:185%;">[[Fiché:Wikipedia-logo-v2-gcr.svg|200px|left]] Bèlvini asou '''[[Wikipédja]]''',</span><br/> roun lansiklopédi lib ki ou pouvé modifyé.
 
-* Please '''do not start editing''' this new site. This site has a test project on the [[incubator:|Wikimedia Incubator]] (or on the [[betawikiversity:|Beta Wikiversity]] or on the [[oldwikisource:|Old Wikisource]]) and it will be imported to here.
+Si ou ka '''Palé''' ké '''Marké''' Kriyòl Gwiyannen (menm si a oun ti bi), pa pran pè kontribiyé. Nou ganyen '''Dòkò''' ki ké bay ou fòrs ké pasé dèyè ou.
 
-* If you would like to help translating the interface to this language, please do not translate here, but go to [[translatewiki:|translatewiki.net]], a special wiki for translating the interface. That way everyone can use it on every wiki using the [[mw:|same software]].
+Kou nou ka di : A "roun lanmen ka lavé ròt" !
 
-* For information about how to edit and for other general help, see [[m:Help:Contents|Help on Wikimedia's Meta-Wiki]] or [[mw:Help:Contents|Help on MediaWiki.org]].
+'''Épi pa bliyé ki pi enpòrtan, a di patisipé !''' 
 
-== Sister projects ==
-<span class="plainlinks">
-[//www.wikipedia.org Wikipedia] |
-[//www.wiktionary.org Wiktionary] |
-[//www.wikibooks.org Wikibooks] |
-[//www.wikinews.org Wikinews] |
-[//www.wikiquote.org Wikiquote] |
-[//www.wikisource.org Wikisource] |
-[//www.wikiversity.org Wikiversity] |
-[//www.wikivoyage.org Wikivoyage] |
-[//species.wikimedia.org Wikispecies] |
-[//www.wikidata.org Wikidata] |
-[//commons.wikimedia.org Commons]
+Pou kréyé roun paj, ou divèt rajouté divan so non '''''' (a kòd di Wikipédja an Kriyòl Gwiyannen), pou li fika rajouté annan lis di paj ki marké annan lanng-an.
+|style="padding:1em;text-align:right;line-height:1.3" |{{CURRENTTIME}} (UTC); {{CURRENTDAYNAMEI}}, {{CURRENTDAY}}
+{{CURRENTMONTHNAMEI}}
+{{CURRENTYEAR}}</small><br>
+<big>'''{{NUMBEROFARTICLES}} artik''' an '''[[Kriyòl Gwiyannen]]'''. </big> {{PurgeButton|Atchwalizé}}<br/>
+
+
+[[Èspésyal:PrefixIndex/Wp/gcr|Paj]]{{·}}
+[[Èspésyal:PrefixIndex/Category:Wp/gcr|Katégori]]{{·}}
+[[Èspésyal:PrefixIndex/Template:Wp/gcr|Modèl]]
+
+|-
+|Colspan="2" style="text-align:center;"|
+
+<inputbox>
+ type=fulltext
+ width=64
+ bgcolor=#FFFFFF
+ preload=Template:Standard content for new page
+ editintro=Template:Instructions
+ default=
+ buttonlabel=Sasé paj-a
+ break=
+</inputbox>
+
+|}
+|}
+{| style="margin-top:5px; width:100%; margin-bottom:2px;"
+|class="fundologo" style="background-repeat:no-repeat; background-position:-40px -15px; width:100%; border:1px solid #a7d7f9; vertical-align:top; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius:10px;" |
+<!-- ARTIK LABÈLIZÉ -->
+<div class="NavHead" style="-moz-border-radius-topright:1em; -moz-border-radius-topleft:1em; background:#ffffff; border-bottom:1px solid #BBBBBB; font-family: Verdana, Arial, Helvetica, sans-serif; font-size:100%; padding-bottom:.2em; padding-top:.2em; padding:.3em">Artik Labèlizé
+</div>
+<br>
+{{Limyèr asou}}
+</div>
+|}
+
+{| width="100%" style="border-spacing:0px;"
+|class="PajPrensipalBG" style="width: 100%; border:1px solid #778FE1; background-color:#CCD5F4; vertical-align:top;   -moz-border-radius:10px" |
+{| width="100%" cellpadding="2" cellspacing="3" style="vertical-align:top; background-color: #CCD5F4;   -moz-border-radius:10px"
+| style="background-color: #cedff2; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #778FE1; text-align: center; padding-left: 1px; -moz-border-radius:10px" |
+[[Fiché:Indice.png|link=|alt=]]
+|
+{| width="100%" style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 90%; line-height: 110%; background-color: #FFFFFF;"
+|-
+| width="45%" style="padding: 0 2px 0 0;"|
+
+{{Sègsyon Lansiklopédi}}
+
 </span>
+|-
+|}
+|-
+|}
+|}
 
-See Wikimedia's [[m:|Meta-Wiki]] for the coordination of these projects.
+<div style=" font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 90%; margin: 0; padding: 7px 0px 0px 0px; -moz-border-radius:10px">
+
+<!-----------Lanng-yan ------------>
+{{Lanng wikipédja}}
+
+<!-- [[Katégori:Kontni| ]] --><!-- Pou bagaj ki ka rété ki dèrò di donmenn prensipal, initil. -->
+
+
+[[de:]]
+[[en:]]
+[[es:]]
+[[fr:]]
+[[ht:]]
+[[it:]]
+[[pt:]]
+[[srn:]]
