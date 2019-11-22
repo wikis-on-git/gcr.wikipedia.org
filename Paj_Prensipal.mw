@@ -13,8 +13,6 @@ Kou nou ka di : A "roun lanmen ka lavé ròt" !
 {{CURRENTMONTHNAMEI}}
 {{CURRENTYEAR}}</small><br>
 
-[[Èspésyal:PrefixIndex/Wp/gcr|Paj]]{{·}}[[Èspésyal:PrefixIndex/Category:Wp/gcr|Katégori]]{{·}}[[Èspésyal:PrefixIndex/Template:Wp/gcr|Modèl]]
-
 |-
 |Colspan="2" style="text-align:center;"|
 
@@ -28,7 +26,10 @@ Kou nou ka di : A "roun lanmen ka lavé ròt" !
 <br>
 {{Limyèr asou}}
 </div>
+|}
 
+{| style="margin-top:5px; width:100%; margin-bottom:2px;"
+|class="fundologo" style="background-repeat:no-repeat; background-position:-40px -15px; width:100%; border:1px solid #a7d7f9; vertical-align:top; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius:10px;" |
 <!-- PRÉZANTASYON -->
 <div class="accueil_2017_cadre nomobile">
 <h2>Prézantasyon</h2>
@@ -45,6 +46,7 @@ Rédaktò-ya di artik-ya di Wikipédja sa bénévòl. Yé ka koòrdonnen yé lé
 | style="width:50%; vertical-align:top;"| <span style="font-size:1.3rem; font-weight:bold">[[Èspésyal:Èstatistik|{{NUMBEROFARTICLES}}]]</span>
 <br/>artik
 | style="width:50%"| <span style="font-size:1.3rem; font-weight:bold">[[Èspésyal:Itilizatò aktif|{{NUMBEROFACTIVEUSERS}}]]</span><br/><span style="cursor:help;" title="Itilizatò ki fè onmwen roun aksyon pannan 30 dannan jou-ya.">kontribitò anréjistré aktif</span>
+|}
 |}
 
 {| width="100%" style="border-spacing:0px;"
