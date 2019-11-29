@@ -39,6 +39,15 @@ Wikipédja sa défini pa tchèk [[Wikipédja:Prensip fondatò|prensip fondatò]]
 
 Rédaktò-ya di artik-ya di Wikipédja sa bénévòl. Yé ka koòrdonnen yé léfò annan roun kouminoté kolaborativ, san dirijan.
 
+{| style="width:100%; padding-top:10px;"
+|-
+| style="padding-bottom:7px" colspan="2"| Jodla, [[Wikipédja an kriyòl gwiyannen]] gen :
+|- style="text-align:center"
+| style="width:50%; vertical-align:top;"| <span style="font-size:1.3rem; font-weight:bold">[[Èspésyal:Èstatistik|{{NUMBEROFARTICLES}}]]</span>
+<br/>artik
+| style="width:50%"| <span style="font-size:1.3rem; font-weight:bold">[[Èspésyal:Itilizatò aktif|{{NUMBEROFACTIVEUSERS}}]]</span><br/><span style="cursor:help;" title="Itilizatò ki fè onmwen roun aksyon pannan 30 dannan jou-ya.">kontribitò anréjistré aktif</span>
+|}
+
 <!-- KOUMAN KONTRIBIYÉ ? -->
 <h2 style="margin-top:1.5rem">Kouman kontribiyé ?</h2>
 Chak moun pouvé pibliyé atchwèlman di kontni an lign, rounso si moun ka rèspèkté larèl-ya ésansyèl ki établi pa [[:wmf:Terms_of_Use/fr|Fondation Wikimedia]] é pa kouminoté-a ; pa lègzanp, [[Wikipédja:Vérifyabilité|vérifyabilité di kontni]], [[Wikipédja:Kritèr di admisibilité di artik|admisibilité di artik-ya]] ké [[Wikipédja:Larèl di savé-viv|gadé roun atitid ké rèspè]].
@@ -49,15 +58,6 @@ Rounlo paj di lèd la pou ou dispozisyon, notanman pou [[Lèd:Kouman kréyé rou
 
 <div class="liste-horizontale accueil_2017_pied">'''[[Lèd:koumansé|Konnésans pou koumansé]]'''</div>
 </div>
-
-{| style="width:100%; padding-top:10px;"
-|-
-| style="padding-bottom:7px" colspan="2"| Jòdla, [[Wikipédja an kriyòl gwiyannen]] gen :
-|- style="text-align:center"
-| style="width:50%; vertical-align:top;"| <span style="font-size:1.3rem; font-weight:bold">[[Èspésyal:Èstatistik|{{NUMBEROFARTICLES}}]]</span>
-<br/>artik
-| style="width:50%"| <span style="font-size:1.3rem; font-weight:bold">[[Èspésyal:Itilizatò aktif|{{NUMBEROFACTIVEUSERS}}]]</span><br/><span style="cursor:help;" title="Itilizatò ki fè onmwen roun aksyon pannan 30 dannan jou-ya.">kontribitò anréjistré aktif</span>
-|}
 |}
 
 {| width="100%" style="border-spacing:0px;"
