@@ -45,7 +45,7 @@ Rédaktò-ya di artik-ya di Wikipédja sa bénévòl. Yé ka koòrdonnen yé lé
 |- style="text-align:center"
 | style="width:50%; vertical-align:top;"| <span style="font-size:1.3rem; font-weight:bold">[[Èspésyal:Statistiques|{{NUMBEROFARTICLES}}]]</span>
 <br/>artik
-| style="width:50%"| <span style="font-size:1.3rem; font-weight:bold">[[Èspésyal:Itilizatò aktif|{{NUMBEROFACTIVEUSERS}}]]</span><br/><span style="cursor:help;" title="Itilizatò ki fè onmwen roun aksyon pannan 30 dannan jou-ya.">kontribitò anréjistré aktif</span>
+| style="width:50%"| <span style="font-size:1.3rem; font-weight:bold">[[Èspésyal:Utilisateurs actifs|{{NUMBEROFACTIVEUSERS}}]]</span><br/><span style="cursor:help;" title="Itilizatò ki fè onmwen roun aksyon pannan 30 dannan jou-ya.">kontribitò anréjistré aktif</span>
 |}
 
 <!-- KOUMAN KONTRIBIYÉ ? -->
